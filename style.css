@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(99,86,102);
+}
+.topDiv{
+    width: 100vw;
+    height: 8vh;
+    background-color: rgb(131,154,168);
+}
+.centerDiv{
+    margin-left: 25vw;
+    margin-top: 21vh;
+    width: 50vw;
+    height: 50vh;
+    background-color: rgb(99,86,102);
+    border-radius: 30px;
+    box-shadow: 5px 5px 15px 0 black, -5px -5px 15px 0 rgb(214, 206, 206);
+}
